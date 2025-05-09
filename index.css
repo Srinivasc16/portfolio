@@ -207,7 +207,7 @@ nav {
     font-size: 1.1rem;
     color: var(--gray);
     max-width: 600px;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1rem;
     line-height: 1.7;
     opacity: 0;
     transform: translateY(20px);
@@ -294,12 +294,12 @@ nav {
 
 /* ABOUT SECTION */
 section {
-    padding: 120px 0;
+    padding: 10px 0;
     position: relative;
 }
 
 .section-header {
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     text-align: center;
     position: relative;
 }
@@ -1072,6 +1072,10 @@ footer {
         transition: all 0.5s ease;
         z-index: 2;
         backdrop-filter: blur(10px);
+    }
+    .containerx{
+        display: flex;
+        margin-left: 50px;
     }
     
     .nav-links.active {
