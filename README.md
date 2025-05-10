@@ -20,4 +20,4 @@ Feel free to modify, share, or deploy it without any restrictions.
 You can get started by cloning this repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git](https://github.com/Srinivasc16/portfolio.git
+git clone https://github.com/Srinivasc16/portfolio.git
