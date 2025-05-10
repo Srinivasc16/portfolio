@@ -15,7 +15,7 @@ This project is **completely free to use**.
 No copyright or attribution is required.  
 Feel free to modify, share, or deploy it without any restrictions.
 
-## 📦 Clone the Repository
+##  Clone the Repository
 
 You can get started by cloning this repo:
 
